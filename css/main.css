@@ -45,3 +45,12 @@ header{
     color: white;
     text-decoration: none;
 }
+/*criando media queries*/
+@media screen and (max-width: 768px){
+ .container h1{
+     margin: 0 auto;
+ }
+ .container nav ul{
+     display:none;
+ }
+}
