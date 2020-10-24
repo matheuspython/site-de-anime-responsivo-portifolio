@@ -45,6 +45,18 @@ header{
     color: white;
     text-decoration: none;
 }
+section.imagem-anime-top{
+    width: 100%;
+    height: 40vh;
+    background: url('https://www.wallpapertip.com/wmimgs/46-468960_anime-4k-desktop-background-wallpaper-hd-anime-wallpaper.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+
+
+
+
 /*criando media queries*/
 @media screen and (max-width: 768px){
  .container h1{
